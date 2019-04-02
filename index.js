@@ -1,3 +1,3 @@
 var Number = 5;
 
-console.log(Number++)
+console.log(Number)
