@@ -4,5 +4,5 @@ Number++
 
 console.log(Number)
 
-Number--
+Number---
 console.log(Number)
