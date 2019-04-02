@@ -1,3 +1,3 @@
 var Number = 5;
 
-console.log(parseInt(Number, 10))
+console.log(parseInt('2', 10))
