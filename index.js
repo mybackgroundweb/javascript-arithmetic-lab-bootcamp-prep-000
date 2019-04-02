@@ -1,5 +1,5 @@
 var Number = 5;
 
 
-Number---
+Number +=3
 console.log(Number)
